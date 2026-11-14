@@ -1,0 +1,6 @@
+{
+  "name": "Neighborhood Help Exchange",
+  "description": "A trusted local community web application where neighbors post requests for small favors, match with nearby helpers within 10 km, and build community reputation with 48-hour expiration and verified trust scores.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
